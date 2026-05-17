@@ -1,13 +1,14 @@
 ![](./docs/assets/screenshot.jpg)
 
-# Gorilla Template
+# Open Template
 
 Meta Quest games like **Gorilla Tag**, **Yeeps**, and **Animal Company** are now making **$100,000,000+ in revenue every year**. This template gives you everything you need to create your own.
 
-Need a feature for your game that's missing? Join our [Discord](https://discord.gg/aSfYnfhtE3) and we'll add it for you!
+Need a feature for your game that's missing? Join our [Discord](https://discord.gg/Bgwf4jEKKh) and we'll add it for you!
 
 ### Features
 - Multiplayer
+- Match Finding
 - Voice Chat
 - Unity 6 Support
 - [Gorilla Locomotion](https://github.com/NormalVR/GorillaLocomotion)
@@ -73,7 +74,7 @@ Gorilla Template is licensed under the MIT License with Creator Protection Claus
 - Distribute copies
 - Create and sell products built using Gorilla Template
 
-❌ **Not Allowed**:
-- Use it to build or promote a product that competes with [Normcore](https://normcore.io/) (Normal's multiplayer framework)
+❌ **Not Endorsed, Normcore is the best networking so why would you want to change it? but still we use the MIT license so do what you want with the product!**:
+- The builtin networking solution: [Normcore](https://normcore.io/) (Normal's multiplayer framework)
 
 See the [License](License.md) file for the complete license text for more information.
