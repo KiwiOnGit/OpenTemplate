@@ -29,7 +29,7 @@ Need a feature for your game that's missing? Join our [Discord](https://discord.
 - Networked sound effects
 
 ### Getting Started
-1. [Download](https://github.com/NormalVR/GorillaTemplate/archive/refs/heads/main.zip) a copy of the template.
+1. [Download](https://github.com/KiwiOnGit/OpenTemplate/archive/refs/heads/main.zip) a copy of the template.
 2. Open the GorillaTemplate folder with [Unity](https://unity.com/download).
 3. In Unity, open the scene `Assets/_GorillaTemplate/_DemoScenes/Demo (Multiplayer).unity`.
 4. Create a [normcore.io](https://normcore.io/?utm_source=github&utm_medium=referral&utm_campaign=gtag) account and generate an App Key.
@@ -38,10 +38,10 @@ Need a feature for your game that's missing? Join our [Discord](https://discord.
 7. To enable in-app purchases of cosmetics, [further setup](docs/economy.md) is needed to integrate with the Meta Horizon Store and PlayFab.
 
 ### Discord
-Need help? Have a feature request? Join our discord! https://discord.gg/aSfYnfhtE3
+Need help? Have a feature request? Join our discord! https://discord.gg/Bgwf4jEKKh
 
 ### Tutorials
-Have you created a YouTube tutorial or TikTok? Let us know in [Discord](https://discord.gg/aSfYnfhtE3) and we'll feature it right here!
+Have you created a YouTube tutorial or TikTok? Let us know in [Discord](https://discord.gg/Bgwf4jEKKh) and we'll feature it right here!
 
 <a href="https://www.youtube.com/watch?v=cYANUINPako">
   <img src="./docs/assets/tutorials/garett_the_gamer.jpg" alt="How to Make a Gorilla Tag Fan Game in 5 Minutes 👍" width="50%" />
