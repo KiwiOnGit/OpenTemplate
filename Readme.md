@@ -67,6 +67,6 @@ Have you created a YouTube tutorial or TikTok? Let us know in [Discord](https://
 </a>
 
 ### License
-Open Template is licensed under the MIT License with Creator Protection Clause. This means you can do whatever you want with the code, it is open source.
+Open Template is licensed under a custom MIT License with Creator Protection Clause. This means you can do whatever you want with the code besides using something other than normcore networking as your networking solution, therefor we are considered Source Open/Source-Available.
 
 See the [License](License.md) file for the complete license text for more information.
