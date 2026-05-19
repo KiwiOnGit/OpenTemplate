@@ -7,6 +7,7 @@ Meta Quest games like **Gorilla Tag**, **Yeeps**, and **Animal Company** are now
 Need a feature for your game that's missing? Join our [Discord](https://discord.gg/Bgwf4jEKKh) and we'll add it for you!
 
 ### Features
+- Secured servers via SnowSecuredServers anticheat - Is in beta and not fully done!
 - Multiplayer
 - Match Finding
 - Voice Chat
@@ -29,7 +30,7 @@ Need a feature for your game that's missing? Join our [Discord](https://discord.
 - Networked sound effects
 
 ### Getting Started
-1. [Download](https://github.com/KiwiOnGit/OpenTemplate/archive/refs/heads/main.zip) a copy of the template.
+1. [Download](Click Code then download as a zip. or if you have git installed run this command: 'git clone https://github.com/KiwiOnGit/OpenTemplate.git') a copy of the template.
 2. Open the GorillaTemplate folder with [Unity](https://unity.com/download).
 3. In Unity, open the scene `Assets/_GorillaTemplate/_DemoScenes/Demo (Multiplayer).unity`.
 4. Create a [normcore.io](https://normcore.io/?utm_source=github&utm_medium=referral&utm_campaign=gtag) account and generate an App Key.
