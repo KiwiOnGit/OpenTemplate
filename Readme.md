@@ -67,15 +67,6 @@ Have you created a YouTube tutorial or TikTok? Let us know in [Discord](https://
 </a>
 
 ### License
-Gorilla Template is licensed under the MIT License with Creator Protection Clause. This means you can:
-
-✅ **Allowed**:
-- Use Gorilla Template for any purpose (personal, commercial, academic)
-- Modify the code
-- Distribute copies
-- Create and sell products built using Gorilla Template
-
-❌ **Not Endorsed, Normcore is the best networking so why would you want to change it? but still we use the MIT license so do what you want with the product!**:
-- The builtin networking solution: [Normcore](https://normcore.io/) (Normal's multiplayer framework)
+Open Template is licensed under the MIT License with Creator Protection Clause. This means you can do whatever you want with the code, it is open source.
 
 See the [License](License.md) file for the complete license text for more information.
