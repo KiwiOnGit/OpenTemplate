@@ -3,6 +3,7 @@
 namespace GorillaLocomotion
 {
     using UnityEngine;
+    using SnowSecuredServers;
 
     // A backwards-compatible wrapper for Rigidbody linear velocity
     public static class RigidBodyExtensions
@@ -80,6 +81,22 @@ namespace GorillaLocomotion
         public RaycastHit rightHandHitInfo;
 
         public bool disableMovement = false;
+
+        void Start()
+        {
+
+            if (SnowSecuredServers.SSS_Main.IsSnowSecuredServersActive)
+            {
+                return;
+            }
+            else
+            {
+                Debug.Log("SnowSecuredServers not detected, object might've been deleted!");
+                Application.Quit();
+            }
+        }
+
+
 
         private void Awake()
         {
